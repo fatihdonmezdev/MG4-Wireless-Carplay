@@ -10,7 +10,7 @@ MG4CPlay brings wireless CarPlay to compatible MG4 infotainment systems.
 
 ## Installation
 
-1. Download the latest APK from [Releases](https://github.com/fatihdonmezdev/MG4-Wireless-Carplay/releases/latest).
+1. Download [MG4CPlay 0.2.9-mg4.37](https://github.com/fatihdonmezdev/MG4-Wireless-Carplay/raw/main/downloads/MG4CPlay-v0.2.9-mg4.37.apk), or check [Releases](https://github.com/fatihdonmezdev/MG4-Wireless-Carplay/releases/latest) for newer builds.
 2. Copy the APK to the vehicle head unit.
 3. Allow installation from unknown sources when Android asks, then install the APK.
 4. Open **MG4CPlay** and grant the requested Bluetooth, nearby-device, location and microphone permissions.
