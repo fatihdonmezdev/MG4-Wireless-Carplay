@@ -21,6 +21,12 @@ MG4CPlay brings wireless CarPlay to compatible MG4 infotainment systems.
 
 If Android reports that the app was not installed because an older build has a different signature, remove that incompatible build first and install this APK again. Removing it also clears its saved settings.
 
+## Hybrid Bluetooth audio
+
+Version 0.2.9-mg4.37 uses CarPlay for the screen, touch input and media controls, while music remains on the MG factory Bluetooth/A2DP connection. CarPlay audio output is intentionally not advertised, avoiding the packet loss and repeated audio skips seen on the head unit's wireless CarPlay path.
+
+Pair the iPhone with the MG Bluetooth system and select the vehicle's Bluetooth audio source. Spotify and other music apps should no longer offer CarPlay as an audio destination while the CarPlay interface remains available.
+
 ## Notes
 
 - Keep Bluetooth and Wi-Fi enabled on the iPhone.
